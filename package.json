@@ -1,0 +1,17 @@
+{
+  "name": "await-sleep",
+  "version": "1.0.0",
+  "description": "Simple solution for sleeping (waiting) using async/await.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Nick Riggs",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
